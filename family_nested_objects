@@ -1,0 +1,34 @@
+{
+	"Jonathan-D": {
+		"age": 55,
+		"quality": "hard-working",
+		"appearance": {
+			"eyes": "blue",
+			"hair": "short"
+		}
+	},
+	"Diana": {
+		"age": 59,
+		"quality": "eccentric",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	},
+	"Jonathan-R": {
+		"age": 26,
+		"quality": "eclectic",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	},
+	"Matthew": {
+		"age": 24,
+		"quality": "rad-guitarist",
+		"appearance": {
+			"eyes": "brown",
+			"hair": "long"
+		}
+	}
+}
